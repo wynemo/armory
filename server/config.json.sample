@@ -1,0 +1,93 @@
+{
+"68b0":
+{
+    "versions" : {"main":[1,2]},                 
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"braid"
+},
+"6784":
+{
+    "versions" : {"main":[1,2]},                 
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"cogs"
+},
+"4678":
+{
+    "versions" : {"main":[1,2,3]},                 
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"death_spank"
+},
+"4696":
+{
+    "versions" : {"main":[1,2]},
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"death_spank_tb"
+},
+"4682":
+{
+    "versions" : {"main":[1,2]},
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"death_spank_tov"
+},
+"17c32":
+{
+    "versions" : {"main":[1,2]},                 
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"magic_2013"
+},
+"e06":
+{
+    "versions" : {"main":[1,2,3]},                 
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"plants_vs_zombies"
+},
+"17e8":
+{
+    "versions" : {"main":[1,2]},
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"shank"
+},
+"191b8":
+{
+    "versions" : {"main":[1,2]},
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"shank_2"
+},
+"22e2":
+{
+    "versions" : {"main":[1,2]},                 
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"sid_meier's_civilization_v"
+},
+"8b74":
+{
+    "versions" : {"main":[1,2,3]},                 
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"trine"
+},
+"8b88":
+{
+    "versions" : {"main":[1,2]},
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"trine_2"
+},
+"pandora_appid":
+{
+    "versions" : {"main":[1,2]},
+    "svn_url": "http://svn.gaia.org/armories",
+    "armories_url": "http://armories.pandoramanager.net",
+    "game_name":"pandora_manager"
+}
+}
